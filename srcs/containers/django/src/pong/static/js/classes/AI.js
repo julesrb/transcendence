@@ -1,3 +1,4 @@
+import * as THREE from '../three-lib/three.module.js';
 import { abs, getRandomInt } from '../utils.js';
 
 class AI {

@@ -1,4 +1,4 @@
-import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.146.0/build/three.module.js';
+import * as THREE from '../three-lib/three.module.js';
 
 class Paddle {
 	constructor (game, left, width = 2) {
