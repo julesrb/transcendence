@@ -1,4 +1,3 @@
-import Stats from './three-lib/stats.module.js'
 import { Game } from './classes/Game.js';
 import { loadPageClosure, bindMenuEventListeners } from './loadPage.js';
 
